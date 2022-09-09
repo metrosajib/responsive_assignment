@@ -59,3 +59,28 @@
 .c{
     padding-left: 20px;
 }
+.dis button{
+    background-color: skyblue;
+    color: white;
+    font-size: 45px;
+    border: none;
+    border-radius: 3px;
+}
+.f{
+    padding-left: 70px;
+    margin-bottom: 20px;
+
+}
+.f img{
+    width: 120%;
+}
+
+footer{
+    background-color: black;
+    color: azure;
+    padding-top: 20px;
+}
+footer p{
+    color: white;
+    padding-left: 80px;
+}
